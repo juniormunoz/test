@@ -1,0 +1,3 @@
+git config color.status.changed blue
+git config color.status.untracked magenta
+
